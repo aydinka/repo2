@@ -1,1 +1,1 @@
-temperature is 60 F
+temperature is 80 F
